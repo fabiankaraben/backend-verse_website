@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/java-by-example/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Backend-Verse"}},"markdownRemark":{"id":"9a21f1a3-90d6-5998-849b-68d5a6489caf","excerpt":"Basics Hello World!","html":"<h2>Basics</h2>\n<ul>\n<li><a href=\"hello-world\">Hello World!</a></li>\n</ul>\n<!-- - Comments\n- Variables\n\n## Primitive types\n\n...\n\n## Composite Types\n\n...\n\n## Control Structures\n\n...\n\n## Functions\n\n...\n\n## Pointers\n\n...\n\n## Modules and Packages\n\n...\n\n## Concurrency\n\n...\n\n## Standard Library\n\n...\n\n## Testing\n\n...\n\n## \n\n... -->","frontmatter":{"title":"Java by example","date":"November 01, 2021","description":"Java by example"}},"previous":{"fields":{"slug":"/go-by-example/"},"frontmatter":{"title":"Go by example"}},"next":{"fields":{"slug":"/javascript-by-example copy/"},"frontmatter":{"title":"JavaScript by example"}}},"pageContext":{"id":"9a21f1a3-90d6-5998-849b-68d5a6489caf","previousPostId":"ad720668-0f6f-5223-9745-5dbe6f563920","nextPostId":"0f317353-f9d6-5ca1-916d-bfb6b0415db6"}},
+    "staticQueryHashes": ["2841359383"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/javascript/what-is-javascript/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Backend-Verse"}},"markdownRemark":{"id":"cb2014a8-79c9-5f13-8d69-e54f720bc970","excerpt":"What is JavaScript?","html":"<h2>What is JavaScript?</h2>","frontmatter":{"title":"What is JavaScript?","date":"November 04, 2021","description":"What is JavaScript?"}},"previous":{"fields":{"slug":"/javascript/"},"frontmatter":{"title":"JavaScript Tour"}},"next":{"fields":{"slug":"/what-is-backend-development/"},"frontmatter":{"title":"What is Backend?"}}},"pageContext":{"id":"cb2014a8-79c9-5f13-8d69-e54f720bc970","previousPostId":"5e0a4a5f-f4bf-5d9d-b016-c6859fc189b6","nextPostId":"9a08034a-4a52-5704-b059-3ad69050b47d"}},
+    "staticQueryHashes": ["2841359383"]}

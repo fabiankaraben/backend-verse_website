@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/python/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Backend-Verse"}},"markdownRemark":{"id":"36ec3fb7-17de-59ab-9580-634b9b76d1cc","excerpt":"Python What is Python?","html":"<h2>Python</h2>\n<ul>\n<li><a href=\"/python/what-is-python\">What is Python?</a></li>\n</ul>","frontmatter":{"title":"Python Tour","date":"November 04, 2021","description":"Python Tour"}},"previous":{"fields":{"slug":"/golang/writing-files/"},"frontmatter":{"title":"Writing Files"}},"next":{"fields":{"slug":"/python/what-is-python/"},"frontmatter":{"title":"What is Python?"}}},"pageContext":{"id":"36ec3fb7-17de-59ab-9580-634b9b76d1cc","previousPostId":"d595ec6e-3832-53f2-838f-72768deb0557","nextPostId":"36a4a3e8-cd6c-52df-afca-c7fc54f49baf"}},
-    "staticQueryHashes": ["2841359383"]}

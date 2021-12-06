@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/python/what-is-python/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Backend-Verse"}},"markdownRemark":{"id":"36a4a3e8-cd6c-52df-afca-c7fc54f49baf","excerpt":"What is Python?","html":"<h2>What is Python?</h2>","frontmatter":{"title":"What is Python?","date":"November 04, 2021","description":"What is Python?"}},"previous":{"fields":{"slug":"/python/"},"frontmatter":{"title":"Python Tour"}},"next":{"fields":{"slug":"/what-is-backend-development/"},"frontmatter":{"title":"What is Backend?"}}},"pageContext":{"id":"36a4a3e8-cd6c-52df-afca-c7fc54f49baf","previousPostId":"36ec3fb7-17de-59ab-9580-634b9b76d1cc","nextPostId":"9a08034a-4a52-5704-b059-3ad69050b47d"}},
-    "staticQueryHashes": ["2841359383"]}

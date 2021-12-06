@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/javascript/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Backend-Verse"}},"markdownRemark":{"id":"5e0a4a5f-f4bf-5d9d-b016-c6859fc189b6","excerpt":"JavaScript What is JavaScript?","html":"<h2>JavaScript</h2>\n<ul>\n<li><a href=\"/javascript/what-is-javascript\">What is JavaScript?</a></li>\n</ul>","frontmatter":{"title":"JavaScript Tour","date":"November 04, 2021","description":"JavaScript Tour"}},"previous":{"fields":{"slug":"/golang/writing-files/"},"frontmatter":{"title":"Writing Files"}},"next":{"fields":{"slug":"/javascript/what-is-javascript/"},"frontmatter":{"title":"What is JavaScript?"}}},"pageContext":{"id":"5e0a4a5f-f4bf-5d9d-b016-c6859fc189b6","previousPostId":"d595ec6e-3832-53f2-838f-72768deb0557","nextPostId":"cb2014a8-79c9-5f13-8d69-e54f720bc970"}},
+    "staticQueryHashes": ["2841359383"]}

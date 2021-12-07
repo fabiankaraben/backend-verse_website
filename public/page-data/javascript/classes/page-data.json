@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/javascript/classes/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Backend-Verse"}},"markdownRemark":{"id":"f9354446-166f-53ea-bd74-2300605f2985","excerpt":"","html":"","frontmatter":{"title":"Classes","date":"November 04, 2021","description":"Classes in JavaScript"}},"previous":{"fields":{"slug":"/javascript/arrays/"},"frontmatter":{"title":"Arrays"}},"next":{"fields":{"slug":"/javascript/class-expressions/"},"frontmatter":{"title":"Class Expressions"}}},"pageContext":{"id":"f9354446-166f-53ea-bd74-2300605f2985","previousPostId":"f15a570c-da67-577a-8c9f-ed8f82650a3a","nextPostId":"0f0f1ef7-d949-5dd5-8008-517760d93d06"}},
+    "staticQueryHashes": ["2841359383"]}

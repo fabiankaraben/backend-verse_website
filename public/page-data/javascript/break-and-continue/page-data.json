@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/javascript/break-and-continue/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Backend-Verse"}},"markdownRemark":{"id":"43dbf4a2-f766-555d-a8d1-4d9f1c08a649","excerpt":"","html":"","frontmatter":{"title":"Break and Continue","date":"November 04, 2021","description":"Break and Continue in JavaScript"}},"previous":{"fields":{"slug":"/javascript/for-loop/"},"frontmatter":{"title":"For loop"}},"next":{"fields":{"slug":"/javascript/for-in-loop/"},"frontmatter":{"title":"For in loop"}}},"pageContext":{"id":"43dbf4a2-f766-555d-a8d1-4d9f1c08a649","previousPostId":"44b6ec96-e334-53db-8b9a-ae91c9603d5d","nextPostId":"8d883bf8-ad13-5367-aaf5-172440520971"}},
+    "staticQueryHashes": ["2841359383"]}

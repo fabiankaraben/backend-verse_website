@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/javascript/switch/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Backend-Verse"}},"markdownRemark":{"id":"7c15aae7-910d-5354-9225-1d21e0c4bc74","excerpt":"","html":"","frontmatter":{"title":"Switch","date":"November 04, 2021","description":"Switch in JavaScript"}},"previous":{"fields":{"slug":"/javascript/if-else/"},"frontmatter":{"title":"If and Else"}},"next":{"fields":{"slug":"/javascript/loops/"},"frontmatter":{"title":"Loops"}}},"pageContext":{"id":"7c15aae7-910d-5354-9225-1d21e0c4bc74","previousPostId":"a2c38f62-86c0-5281-9e9a-c31c0b9ad5d7","nextPostId":"5c4a6669-c3b5-514f-8571-ad39fa3bda1d"}},
+    "staticQueryHashes": ["2841359383"]}

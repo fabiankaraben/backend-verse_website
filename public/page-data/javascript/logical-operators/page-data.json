@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/javascript/logical-operators/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Backend-Verse"}},"markdownRemark":{"id":"54439524-1d0b-58f6-bb31-79484792de5e","excerpt":"","html":"","frontmatter":{"title":"Logical Operators","date":"November 04, 2021","description":"Logical Operators in JavaScript"}},"previous":{"fields":{"slug":"/javascript/bitwise-operators/"},"frontmatter":{"title":"Bitwise Operators"}},"next":{"fields":{"slug":"/javascript/assignment-operators/"},"frontmatter":{"title":"Assignment Operator"}}},"pageContext":{"id":"54439524-1d0b-58f6-bb31-79484792de5e","previousPostId":"d74099de-b4d6-56e5-b11c-320431fee372","nextPostId":"fbb9edfb-190e-56c0-9508-a2cefeb9deca"}},
-    "staticQueryHashes": ["2841359383"]}

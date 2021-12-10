@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/notes/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Backend-Verse"}},"markdownRemark":{"id":"25a020f6-5490-5706-903a-e46b718d0ea5","excerpt":"My Git notes","html":"<ul>\n<li><a href=\"/notes/git\">My Git notes</a></li>\n</ul>","frontmatter":{"title":"My Notes","date":"November 04, 2021","description":"My notes about IT topics"}},"previous":null,"next":{"fields":{"slug":"/what-is/"},"frontmatter":{"title":"What is"}}},"pageContext":{"id":"25a020f6-5490-5706-903a-e46b718d0ea5","previousPostId":null,"nextPostId":"0f56d67a-ec9c-5b4f-86d7-8c1baa5ac194"}},
+    "staticQueryHashes": ["2841359383"]}

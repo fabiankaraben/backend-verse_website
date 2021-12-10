@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/javascript/boolean-values/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Backend-Verse"}},"markdownRemark":{"id":"79deafed-1aae-5636-b393-9176339690cc","excerpt":"","html":"","frontmatter":{"title":"Boolean values","date":"November 04, 2021","description":"Boolean values in JavaScript"}},"previous":{"fields":{"slug":"/javascript/ternary-operator/"},"frontmatter":{"title":"Ternary Operator"}},"next":{"fields":{"slug":"/javascript/if-else/"},"frontmatter":{"title":"If and Else"}}},"pageContext":{"id":"79deafed-1aae-5636-b393-9176339690cc","previousPostId":"26dd4154-f079-582c-aaa5-6ecc04958bed","nextPostId":"a2c38f62-86c0-5281-9e9a-c31c0b9ad5d7"}},
-    "staticQueryHashes": ["2841359383"]}

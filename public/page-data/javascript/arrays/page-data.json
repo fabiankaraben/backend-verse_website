@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/javascript/arrays/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Backend-Verse"}},"markdownRemark":{"id":"f15a570c-da67-577a-8c9f-ed8f82650a3a","excerpt":"","html":"","frontmatter":{"title":"Arrays","date":"November 04, 2021","description":"Arrays in JavaScript"}},"previous":{"fields":{"slug":"/javascript/nested-functions/"},"frontmatter":{"title":"Nested Functions"}},"next":{"fields":{"slug":"/javascript/classes/"},"frontmatter":{"title":"Classes"}}},"pageContext":{"id":"f15a570c-da67-577a-8c9f-ed8f82650a3a","previousPostId":"54035fdb-53e9-52c7-8f32-51be645aeacb","nextPostId":"f9354446-166f-53ea-bd74-2300605f2985"}},
-    "staticQueryHashes": ["2841359383"]}

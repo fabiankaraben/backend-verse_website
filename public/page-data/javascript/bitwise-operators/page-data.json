@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/javascript/bitwise-operators/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Backend-Verse"}},"markdownRemark":{"id":"d74099de-b4d6-56e5-b11c-320431fee372","excerpt":"","html":"","frontmatter":{"title":"Bitwise Operators","date":"November 04, 2021","description":"Bitwise Operators in JavaScript"}},"previous":{"fields":{"slug":"/javascript/increment-decrement-operators/"},"frontmatter":{"title":"Increment Decrement Operators"}},"next":{"fields":{"slug":"/javascript/logical-operators/"},"frontmatter":{"title":"Logical Operators"}}},"pageContext":{"id":"d74099de-b4d6-56e5-b11c-320431fee372","previousPostId":"4a102b24-ae31-5364-8f32-8a5b834c3047","nextPostId":"54439524-1d0b-58f6-bb31-79484792de5e"}},
-    "staticQueryHashes": ["2841359383"]}

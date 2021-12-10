@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/javascript/nested-functions/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Backend-Verse"}},"markdownRemark":{"id":"54035fdb-53e9-52c7-8f32-51be645aeacb","excerpt":"","html":"","frontmatter":{"title":"Nested Functions","date":"November 04, 2021","description":"Nested Functions in JavaScript"}},"previous":{"fields":{"slug":"/javascript/strings/"},"frontmatter":{"title":"Strings"}},"next":{"fields":{"slug":"/javascript/arrays/"},"frontmatter":{"title":"Arrays"}}},"pageContext":{"id":"54035fdb-53e9-52c7-8f32-51be645aeacb","previousPostId":"9616e4bd-ee4f-50f0-8f14-159b7f640f23","nextPostId":"f15a570c-da67-577a-8c9f-ed8f82650a3a"}},
-    "staticQueryHashes": ["2841359383"]}

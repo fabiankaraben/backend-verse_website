@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/what-is/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Backend-Verse"}},"markdownRemark":{"id":"0f56d67a-ec9c-5b4f-86d7-8c1baa5ac194","excerpt":"What is Backend Development?","html":"<ul>\n<li><a href=\"/what-is/backend-development\">What is Backend Development?</a></li>\n</ul>","frontmatter":{"title":"What is","date":"November 04, 2021","description":"Definitions of the main IT terms"}},"previous":{"fields":{"slug":"/notes/"},"frontmatter":{"title":"My Notes"}},"next":{"fields":{"slug":"/what-is/backend-development/"},"frontmatter":{"title":"What is Backend?"}}},"pageContext":{"id":"0f56d67a-ec9c-5b4f-86d7-8c1baa5ac194","previousPostId":"25a020f6-5490-5706-903a-e46b718d0ea5","nextPostId":"a4bc50ea-525b-5ad5-a165-58523a4ba21a"}},
+    "staticQueryHashes": ["2841359383"]}

@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/javascript/do-while-loop/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Backend-Verse"}},"markdownRemark":{"id":"8b0586c1-cb99-535a-8521-5c6d6740a6f9","excerpt":"","html":"","frontmatter":{"title":"Do-while loop","date":"November 04, 2021","description":"Do-while loop in JavaScript"}},"previous":{"fields":{"slug":"/javascript/loops/"},"frontmatter":{"title":"Loops"}},"next":{"fields":{"slug":"/javascript/for-loop/"},"frontmatter":{"title":"For loop"}}},"pageContext":{"id":"8b0586c1-cb99-535a-8521-5c6d6740a6f9","previousPostId":"5c4a6669-c3b5-514f-8571-ad39fa3bda1d","nextPostId":"44b6ec96-e334-53db-8b9a-ae91c9603d5d"}},
-    "staticQueryHashes": ["2841359383"]}

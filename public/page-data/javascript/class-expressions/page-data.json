@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/javascript/class-expressions/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Backend-Verse"}},"markdownRemark":{"id":"0f0f1ef7-d949-5dd5-8008-517760d93d06","excerpt":"","html":"","frontmatter":{"title":"Class Expressions","date":"November 04, 2021","description":"Class Expressions in JavaScript"}},"previous":{"fields":{"slug":"/javascript/classes/"},"frontmatter":{"title":"Classes"}},"next":{"fields":{"slug":"/what-is-backend-development/"},"frontmatter":{"title":"What is Backend?"}}},"pageContext":{"id":"0f0f1ef7-d949-5dd5-8008-517760d93d06","previousPostId":"f9354446-166f-53ea-bd74-2300605f2985","nextPostId":"9a08034a-4a52-5704-b059-3ad69050b47d"}},
-    "staticQueryHashes": ["2841359383"]}

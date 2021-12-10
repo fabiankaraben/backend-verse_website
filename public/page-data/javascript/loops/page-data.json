@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/javascript/loops/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Backend-Verse"}},"markdownRemark":{"id":"5c4a6669-c3b5-514f-8571-ad39fa3bda1d","excerpt":"","html":"","frontmatter":{"title":"Loops","date":"November 04, 2021","description":"Loops in JavaScript"}},"previous":{"fields":{"slug":"/javascript/switch/"},"frontmatter":{"title":"Switch"}},"next":{"fields":{"slug":"/javascript/do-while-loop/"},"frontmatter":{"title":"Do-while loop"}}},"pageContext":{"id":"5c4a6669-c3b5-514f-8571-ad39fa3bda1d","previousPostId":"7c15aae7-910d-5354-9225-1d21e0c4bc74","nextPostId":"8b0586c1-cb99-535a-8521-5c6d6740a6f9"}},
-    "staticQueryHashes": ["2841359383"]}

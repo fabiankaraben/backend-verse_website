@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/javascript/strings/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Backend-Verse"}},"markdownRemark":{"id":"9616e4bd-ee4f-50f0-8f14-159b7f640f23","excerpt":"","html":"","frontmatter":{"title":"Strings","date":"November 04, 2021","description":"Strings in JavaScript"}},"previous":{"fields":{"slug":"/javascript/for-of-loop/"},"frontmatter":{"title":"For-of loop"}},"next":{"fields":{"slug":"/javascript/nested-functions/"},"frontmatter":{"title":"Nested Functions"}}},"pageContext":{"id":"9616e4bd-ee4f-50f0-8f14-159b7f640f23","previousPostId":"4a6e8772-656c-5978-824d-c2148b6521a5","nextPostId":"54035fdb-53e9-52c7-8f32-51be645aeacb"}},
-    "staticQueryHashes": ["2841359383"]}

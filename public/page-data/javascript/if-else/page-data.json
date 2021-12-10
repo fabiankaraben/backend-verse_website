@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/javascript/if-else/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Backend-Verse"}},"markdownRemark":{"id":"a2c38f62-86c0-5281-9e9a-c31c0b9ad5d7","excerpt":"","html":"","frontmatter":{"title":"If and Else","date":"November 04, 2021","description":"If and Else in JavaScript"}},"previous":{"fields":{"slug":"/javascript/boolean-values/"},"frontmatter":{"title":"Boolean values"}},"next":{"fields":{"slug":"/javascript/switch/"},"frontmatter":{"title":"Switch"}}},"pageContext":{"id":"a2c38f62-86c0-5281-9e9a-c31c0b9ad5d7","previousPostId":"79deafed-1aae-5636-b393-9176339690cc","nextPostId":"7c15aae7-910d-5354-9225-1d21e0c4bc74"}},
-    "staticQueryHashes": ["2841359383"]}
